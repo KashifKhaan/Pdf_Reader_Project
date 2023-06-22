@@ -73,4 +73,4 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 
 Email: mrkashi2020@gmail.com
 
-`I appreciate your support and hope you enjoy using the Calculator-App`
+`I appreciate your support and hope you enjoy using the pdf_reader`
